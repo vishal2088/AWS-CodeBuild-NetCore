@@ -32,7 +32,7 @@
           "codedeploy.us-east-1.amazonaws.com"
         ]
       },
-      "Action": "sts:AssumeRole"
+      "Action": "sts:AssumeRole" 
     }
   ]
 }
